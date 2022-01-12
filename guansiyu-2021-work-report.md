@@ -64,8 +64,10 @@ vue2.0
 ### 3.难点
 
 需要根据复杂的数据结构判断应该渲染哪个组件
-<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gy9pmf4m9wj30ib0efaav.jpg" style="zoom:67%;" />
 
+
+
+<img src="https://tva1.sinaimg.cn/large/008i3skNgy1gy9pmf4m9wj30ib0efaav.jpg"  />
 
 为此我总结并画了一张图以便于以后接手这个项目的人理清思路：
 
