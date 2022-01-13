@@ -66,7 +66,6 @@ vue2.0
 需要根据复杂的数据结构判断应该渲染哪个组件
 
 
-
 <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gy9pmf4m9wj30ib0efaav.jpg"  />
 
 为此我总结并画了一张图以便于以后接手这个项目的人理清思路：
@@ -173,6 +172,7 @@ vue2.0
 ## 白板功能
 
 我们目前有桌面版的工具，但是还没有网页版的（网页的版的有部分功能），我昨天上午去尝试了一下最简单的画笔功能，已经对此做出了一个简单的demo：
+https://guan-siyu.github.io/white-collab/
 
 
 ![](https://tva1.sinaimg.cn/large/008i3skNgy1gy9pqnkd9ug30go09edjt.gif)
