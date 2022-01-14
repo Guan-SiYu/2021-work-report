@@ -128,6 +128,8 @@ vue2.0
 
 ## [四] 智慧课堂5.0 桌面版
 
+![](https://tva1.sinaimg.cn/large/008i3skNgy1gycxvuf4pug30go08p7wh.gif)
+
 ### 1.技术栈
 
 把前面几个能用的都用上了，并且把webpack换成了vite，vite的好处不言而喻，在ES6让web天生拥有用模块封装代码的能力后，vite在webpack的基础上很好的取其精华去其糟粕，在这个项目的vite.config文件里，可以更好的处理ui组件的按需加载。
